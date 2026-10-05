@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "tag": "v0.1.0-preview.5",
+  "version": "0.1.0-preview.5",
+  "sourceRepository": "TheRealRoshark/ANAIS",
+  "sourceBaseCommit": "137bf9cc4546e710fb236e48147c1e5ccb3e951e",
+  "sourceCandidateManifestSha256": "EE15130E7A0A31CB8B9E7498756564CFEA3A50C728C791A488A3D8BBC62596E5",
+  "channel": "Stable",
+  "rid": "win-x64",
+  "publishMode": "Release self-contained",
+  "migrationMode": "manual-preview4-to-preview5",
+  "installer": {
+    "fileName": "ANAIS-Setup-0.1.0-preview.5.exe",
+    "byteLength": 865958385,
+    "sha256": "AB229D4F6E0075AFB221721AE9819C1C5BC888F256C02E2669EF456991B6D78F"
+  },
+  "playerZip": {
+    "fileName": "ANAIS-Player-0.1.0-preview.5-20261005-161834-732f7ba0.zip",
+    "byteLength": 937634682,
+    "sha256": "4873E4FC92FB5AD7EF24811F2E95603FD50A3E80A30C338588AB41DCA88BCF61"
+  },
+  "playerManifestSha256": "6FD7085687BB5A518098C7FFBF1FB432AA166F4766A4B0D22E4D8CF4BECD859C",
+  "initialFeedSha256": "D079DDD5D318EFCBA6689F87255B8B79E06025E46899766B346A469A3C15F0AC",
+  "contentUpdates": 0
+}
