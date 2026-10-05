@@ -1,0 +1,12 @@
+{
+  "feedSchemaVersion": 1,
+  "releaseChannel": "Stable",
+  "application": {
+    "version": "0.1.0-preview.5",
+    "minimumSupportedVersion": "0.1.0-preview.5",
+    "installer": null,
+    "releaseNotesUrl": "https://github.com/TheRealRoshark/ANAIS-Releases/releases/tag/v0.1.0-preview.5",
+    "contentSchemaVersion": 1
+  },
+  "contentUpdates": []
+}
