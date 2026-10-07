@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "releaseType": "content-pack",
+  "channel": "Stable",
+  "tag": "content-anais.modules.batch08-v1.0.0",
+  "title": "ANAIS Module Library — Batch 08 v1.0.0",
+  "packId": "anais.modules.batch08",
+  "packVersion": "1.0.0",
+  "displayName": "ANAIS Module Library — Batch 08",
+  "assetDomain": "Module",
+  "entryCount": 96,
+  "minimumApplicationVersion": "0.1.0-preview.3",
+  "artifact": {
+    "fileName": "ANAIS-Content-anais.modules.batch08-1.0.0.zip",
+    "url": "https://github.com/TheRealRoshark/ANAIS-Releases/releases/download/content-anais.modules.batch08-v1.0.0/ANAIS-Content-anais.modules.batch08-1.0.0.zip",
+    "byteLength": 165453856,
+    "sha256": "CDB55C1374081B923BCE07453F4AA7F6ACBDF8B35905A53C106FFD9CAB24DF6A",
+    "manifestSha256": "D641C831FDE2CE758117D8675000121DC8526A3AC947BD0747EE599B01ED2672"
+  },
+  "coverage": {
+    "modulesBefore": 304,
+    "modulesAfter": 400,
+    "modulesTotal": 1000,
+    "skillBefore": 55,
+    "skillAfter": 110,
+    "skillTotal": 110,
+    "standardBefore": 77,
+    "standardAfter": 118,
+    "standardTotal": 203
+  },
+  "releaseNotesUrl": "https://github.com/TheRealRoshark/ANAIS-Releases/releases/tag/content-anais.modules.batch08-v1.0.0",
+  "applicationVersionUnchanged": "0.1.0-preview.5"
+}
