@@ -2,17 +2,22 @@
   "feedSchemaVersion": 1,
   "releaseChannel": "Stable",
   "application": {
-    "version": "0.1.0-preview.6",
+    "version": "0.1.0-preview.7",
     "minimumSupportedVersion": "0.1.0-preview.6",
-    "installer": null,
-    "releaseNotesUrl": "https://github.com/TheRealRoshark/ANAIS-Releases/releases/tag/v0.1.0-preview.6",
+    "installer": {
+      "uri": "https://github.com/TheRealRoshark/ANAIS-Releases/releases/download/v0.1.0-preview.7/ANAIS-Setup-0.1.0-preview.7.exe",
+      "byteLength": 866208329,
+      "sha256": "2C868498E1DDCF9D9E765476B41EDAA5FC1F50B005D8DDDD11FDE4A1345566C8",
+      "artifactType": "windows-setup-exe"
+    },
+    "releaseNotesUrl": "https://github.com/TheRealRoshark/ANAIS-Releases/releases/tag/v0.1.0-preview.7",
     "contentSchemaVersion": 1
   },
   "contentUpdates": [
     {
       "packId": "anais.modules.batch08",
       "version": "1.0.0",
-      "displayName": "ANAIS Module Library — Batch 08",
+      "displayName": "ANAIS Module Library \u2014 Batch 08",
       "assetDomain": "Module",
       "entryCount": 96,
       "minimumApplicationVersion": "0.1.0-preview.3",
@@ -22,7 +27,7 @@
         "sha256": "CDB55C1374081B923BCE07453F4AA7F6ACBDF8B35905A53C106FFD9CAB24DF6A",
         "artifactType": "content-pack-zip"
       },
-      "coverage": "Modules 304 → 400 / 1,000; Skill 55 → 110 / 110; Standard 77 → 118 / 203"
+      "coverage": "Modules 304 \u2192 400 / 1,000; Skill 55 \u2192 110 / 110; Standard 77 \u2192 118 / 203"
     }
   ]
 }
